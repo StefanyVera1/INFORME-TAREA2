@@ -80,79 +80,73 @@ Objetivos Específicos:
 <dd>36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.</dd>
  </dl>
  
-<p><b>SECCIÓN 2
+<b>Localización y análisis de fallas con Multisim</b>
+<dl>
+<dd>38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apropiadamente.</dd>
+<dd>40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.</dd>
+<dd>42. Abra el archivo P03-42 y encuentre el problema con el circuito.</dd>
+ </dl> 
+ 
+<p><b>SECCIÓN 4
 
-<i>SECCIÓN 2–2 Carga eléctrica</i>
+<i>SECCIÓN 4–1 Energía y potencia</i>
 <dl>
-<dd>2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej2.JPG">
-<dd>4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej4.JPG">
-<dd>6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej6.JPG">
-<dd>8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej8.JPG">
-<dd>10. Determine la corriente en cada uno de los siguientes casos:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej10.JPG">
-<dd>12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5A?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej12.JPG">
-<dd>14. 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej14.JPG">
-<dd>16. Encuentre la resistencia correspondiente a las siguientes conductancias:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej16.JPG">
+<dd>2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.</dd>
+<dd><img src="">
+<dd>4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?</dd>
+<dd><img src="">
+<dd>6. Convierta las siguientes cantidades en kilowatts:</dd>
+<dd><img src="">
+<dd>8. Convierta las siguientes cantidades en miliwatts:</dd>
+<dd><img src="">
+<dd>10. Convierta las siguientes cantidades en watts:</dd>
+<dd><img src="">
+<dd>*12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?</dd>
+<dd><img src="">
+<dd>14. Convierta 5x10^6 watts-minutos en kWh.</dd>
+<dd><img src="">
+<dd>16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?</dd>
+<dd><img src="">
  </dl>
-<i>SECCIÓN 2–4 Fuentes de voltaje y de corriente</i>
+ 
+<i>SECCIÓN 4–2 Potencia en un circuito eléctrico</i>
 <dl>
-<dd>18. ¿En qué principio se basan los generadores eléctricos?</dd>
- <dd>Se basan en el principio de la inducción electromagnética</dd>
-<dd>20. Cierta fuente de corriente proporciona 100 mA a 1 kOhms de carga. Si la resistencia disminuye a 500 Ohms, ¿cuál es la corriente en la carga?</dd>  
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej20.JPG">
+<dd>18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?</dd>
+ <dd>20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?</dd>
+<dd>22. Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?</dd> 
+ <dd><img src="">
+<dd>24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.</dd>
  </dl>
-  <i>SECCIÓN 2–5 Resistores</i>
+ 
+<i>SECCIÓN 4–3 Clasificaciones de potencia en resistores</i>
 <dl>
-<dd>22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej22.JPG">
-<dd>24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej24.JPG">
-<dd>26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej26.JPG">
-<dd>28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 omhs, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?</dd>
- <dd>La resistencia entre cada terminal sería 500Ω, ya que al encontrarse el amperímetro en el centro y a su vez, tener una resistencia total de 1000Ω, este se divide.</dd>    
-<dd>30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej30.JPG"></dd></dl>
-<i>SECCIÓN 2–6 El circuito eléctrico</i>
+<dd>26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.</dd>
+  <dd><img src="">
+ </dl>
+ 
+<i>SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia</i>
 <dl>
-<dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.269.JPG" width="600" height="400"></dd>
- <dd>Circuito con Fusible</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej32.JPG"></dd>
-<dd>34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.270.JPG"></dd>
- <dd>Existe corriente a través del resistor R5</dd>
-<dd>36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.271.JPG" width="350" height="350"></dd>
- <dd>Con interruptor</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej36.JPG">
-  </dl>
- <p><i>SECCIÓN 2–7 Mediciones de circuito básicas</i>
+ <dd>28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.</dd>
+<dd><img src="">
+</dl>
+
+<i>SECCIÓN 4–5 Fuentes de potencia</i>
 <dl>
-<dd>38. Explique cómo mediría la resistencia de R2 en la figura 2-72.</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.272.JPG"></dd>
- <dd>El voltaje representa el valor total de la suma de las resistencias presentes en el circuito, por ende, basta con restar el voltaje y la resistencia de R1, para así obtener el resultado de la resistencia de R2.</dd>
-<dd>40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.273.JPG"></dd>
- <dd>Con amperímetro</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej40.JPG">
- <dd>Dado que es una serie en paralelo, se conecta el amperímetro en el primer circuito reflejado, que en este caso, es entre el Vs y la resistencia R1. La polaridad de la corriente debe ingresar por la terminal positiva y salir por la terminal negativa.</dd>
- <dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
-<dd>La terminal negativa del voltímetro debe conectarse el lado negativo del circuito y la terminal positiva debe conectarse al lado positivo del circuito</dd>
-<dd>44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.275.JPG" width="450" height="500"></dd>
-<dd>La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.</dd>
- <dd>46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?</dd>
-<dd>La resolución máxima de un multímetro digital de 4 1/2 dígitos mostrará hasta 19.999 recuentos de resolución.</dd>
-  </dl>
+<dd>30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?</dd>
+<dd><img src="">
+<dd>32. Una batería puede proporcionar un promedio de 1.5A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?</dd>
+ <dd>34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?</dd>    
+<dd>36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?</dd>
+ <dd><img src=""></dd></dl>
+ 
+<b>Localización de fallas y análisis con archivos Multisim</b>
+<dl>
+<dd>38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.</dd>
+<dd><img src="" width="600" height="400"></dd>
+ <dd>40. Abra el archivo P04-40. Mida la corriente en la lámpara, y determine si el valor concuerda con el que encontró mediante su clasificación de potencia y voltaje.</dd>
+ <dd><img src=""></dd>
+</dl>
+
 <b>VIDEO
 <dl>
  <dd></dd>
