@@ -80,7 +80,7 @@ Objetivos Específicos:
 <dd>36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.</dd>
  </dl>
  
-<b>Localización y análisis de fallas con Multisim</b>
+<b><i>Localización y análisis de fallas con Multisim</i></b>
 <dl>
 <dd>38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apropiadamente.</dd>
 <dd>40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.</dd>
@@ -139,7 +139,7 @@ Objetivos Específicos:
 <dd>36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?</dd>
  <dd><img src=""></dd></dl>
  
-<b>Localización de fallas y análisis con archivos Multisim</b>
+<b><i>Localización de fallas y análisis con archivos Multisim</i></b>
 <dl>
 <dd>38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.</dd>
 <dd><img src="" width="600" height="400"></dd>
