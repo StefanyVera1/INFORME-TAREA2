@@ -1,4 +1,4 @@
-# InformeTare2
+# InformeTarea2
 <html>
  <titlte></tile>
  <body>
