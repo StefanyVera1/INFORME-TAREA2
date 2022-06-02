@@ -29,15 +29,17 @@ Objetivos Específicos:
 <dl>
 <dd>2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 </dd>
- <dd><img src=""></dd>  
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej2.JPG"></dd> 
 <dd>4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.</dd>
- <dd><img src=""></dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej4.JPG"></dd>
 <dd>6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.</dd>
-  <dd><img src=""></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej6.JPG"></dd>
 <dd>8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.</dd>
-  <dd><img src=""></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej8.JPG"></dd>
 <dd>10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?</dd>
-  <dd><img src=""></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig10.JPG"></dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej10.JPG"></dd>
+ <dd>El que tiene más corriente es el tercer circuito, perteneciente al literal c y el que tiene menos corriente es el primer circuito, perteneciente al literal a</dd>
 <dd>*12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?</dd>
  <dd><img src=""></dd>
 <dd>14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.</dd>
@@ -47,11 +49,16 @@ Objetivos Específicos:
 <i>SECCIÓN 3–2 Cálculo de la corriente</i>
 <dl>
 <dd>16. Determine la corriente en cada caso:</dd>
-  <dd><img src=""></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej16.JPG"></dd>
 <dd>18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.</dd>
-  <dd><img src=""></dd>
+ <dd>3300 Ω ±5%
+
+Resistencia máxima = 3465 Ω
+Resistencia mínima = 3135 Ω
+</dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej18.JPG"></dd>
 <dd>20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.</dd>
-  <dd><img src=""></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej20.JPG"></dd>
 <dd>*22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?</dd>
   <dd><img src=""></dd>
  </dl> 
@@ -59,16 +66,18 @@ Objetivos Específicos:
 <i>SECCIÓN 3–3 Cálculo de voltaje</i>
 <dl>
 <dd>24. Calcule el voltaje para cada valor de I y R:</dd>
-  <dd><img src=""></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej24.JPG"></dd>
 <dd>26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.</dd>
-  <dd><img src=""></dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig26.JPG"></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej26.JPG"></dd>
  </dl>
  
 <i>SECCIÓN 3–4 Cálculo de la resistencia</i>
 <dl>
 <dd>28. Encuentre la resistencia de un reóstato para cada valor de V e I:</dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej28.JPG"></dd>
 <dd>30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?</dd>
- <dd><img src=""></dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej30.JPG"></dd>
  <dd>32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.</dd>
  <dd><img src=""></dd>
  <dd>*34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.</dd>
@@ -78,6 +87,7 @@ Objetivos Específicos:
  <i>SECCIÓN 3–5 Introducción a la localización de fallas</i>
 <dl>
 <dd>36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.</dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig36.JPG"></dd>
  </dl>
  
 <b><i>Localización y análisis de fallas con Multisim</i></b>
