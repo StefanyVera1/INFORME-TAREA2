@@ -37,7 +37,7 @@ Objetivos Específicos:
 <dd>8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.</dd>
   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej8.JPG"></dd>
 <dd>10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig10.JPG"></dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig10.jpg"></dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej10.JPG"></dd>
  <dd>El que tiene más corriente es el tercer circuito, perteneciente al literal c y el que tiene menos corriente es el primer circuito, perteneciente al literal a</dd>
 <dd>*12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?</dd>
