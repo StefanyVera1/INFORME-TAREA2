@@ -68,7 +68,7 @@ Resistencia mínima = 3135 Ω
 <dd>24. Calcule el voltaje para cada valor de I y R:</dd>
   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej24.JPG"></dd>
 <dd>26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig26.JPG"></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig26.jpg"></dd>
   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej26.JPG"></dd>
  </dl>
  
@@ -87,7 +87,7 @@ Resistencia mínima = 3135 Ω
  <i>SECCIÓN 3–5 Introducción a la localización de fallas</i>
 <dl>
 <dd>36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig36.JPG"></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig36.jpg"></dd>
  </dl>
  
 <b><i>Localización y análisis de fallas con Multisim</i></b>
