@@ -33,12 +33,13 @@ Objetivos Específicos:
 <dd>4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.</dd>
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej4.JPG"></dd>
 <dd>6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.</dd>
-  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej6.JPG"></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej6.JPG" width="450" height="150"></dd>
 <dd>8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.</dd>
-  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej8.JPG"></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/tab8.JPG" width="200" height="150"></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej8.JPG" width="400" height="300"></dd>
 <dd>10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?</dd>
-  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig10.jpg"></dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej10.JPG"></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig10.jpg" width="430" height="150"></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej10.JPG" width="430" height="150"></dd>
  <dd>El que tiene más corriente es el tercer circuito, perteneciente al literal c y el que tiene menos corriente es el primer circuito, perteneciente al literal a</dd>
 <dd>*12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?</dd>
  <dd><div align="center"><img src=""></dd>
@@ -49,14 +50,14 @@ Objetivos Específicos:
 <i>SECCIÓN 3–2 Cálculo de la corriente</i>
 <dl>
 <dd>16. Determine la corriente en cada caso:</dd>
-  <dd><div align="center"><img align="center" src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej16.JPG"></dd>
+  <dd><div align="center"><img align="center" src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej16.JPG" width="400" height="350"></dd>
 <dd>18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.</dd>
  <dd>3300 Ω ±5%
 
-Resistencia máxima = 3465 Ω
+Resistencia máxima = 3465 Ω ;
 Resistencia mínima = 3135 Ω
 </dd>
-  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej18.JPG"></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej18.JPG" width="150" height="150"></dd>
 <dd>20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.</dd>
   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej20.JPG"></dd>
 <dd>*22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?</dd>
