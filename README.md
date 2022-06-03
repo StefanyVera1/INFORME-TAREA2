@@ -5,7 +5,7 @@
  <b>OBJETIVOS<p> 
 Objetivo General:
 <dl>
- <dd>Comprender varios conceptos básicos de estudio en fundamentos de circuitos eléctricos, así como los componentes que pueden implementarse en la práctica, logrando de esta forma, reforzar los temas tratados durante la clase dada.</dd>
+ <dd>Identificar la ley de Ohm y sus respectivas fórmulas para emplearlas y explicarlas en el caso de ser necesario, de esta forma ampliar el conocimiento adquirido y obtener la capacidad para solventar problemas expuestos referentes a circuitos.</dd>
 </dl>
 Objetivos Específicos:
 <ul>
