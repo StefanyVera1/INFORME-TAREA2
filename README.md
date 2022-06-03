@@ -149,7 +149,7 @@ Resistencia mínima = 3135 Ω
  </dl>
 <b>CONCLUSIONES
  <dl>
-  <dd>Una vez realizada la revisión respectiva del capítulo 1 y 2 se determina que es primordial comprender los conceptos básicos de fundamentos de circuitos ya que, al emplearlos en los ejercicios planteados, es necesario aplicar las fórmulas adecuadas para obtener los resultados requeridos, y en varios casos, se precisa convertir a distintas unidades métricas. Así como también es esencial implementar de manera adecuada los instrumentos, ya que si no se da el uso apropiado, este puede causar daños en un circuito al aplicarlo en la vida real o peor aún, causar daños a la persona que manipula los dispositivos eléctricos y electrónicos.</dd>
+  <dd>Es indispensable conocer las definiciones correspondientes a energía y potencia ya que son primordiales para el entendimiento de los circuitos eléctricos, así como las fórmulas correspondientes a la Ley de Ohm para la resolución de ejercicios planteados. Así mismo, es importante distinguir las fuentes de potencia y sus características para la aplicación adecuada.</dd>
  </dl>
 <b>BIBLIOGRAFÍA
  <dl>
