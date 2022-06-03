@@ -9,9 +9,9 @@ Objetivo General:
 </dl>
 Objetivos Específicos:
 <ul>
- <li>Analizar las unidades de medida y las conversiones correspondientes de acuerdo al uso dado.</li>
- <li>Definir de manera clara y concisa los conceptos de voltaje, corriente y resistencia, ya que estos se aplican en los ejercicios que se encuentran en el presente informe.</li>
- <li>Conocer los distintos dispositivos de medida e interpretar los resultados que se obtienen mediante los mismos.</li>
+ <li>Comprender la ley de Ohm y así efectuar los cálculos correspondientes a la corriente, voltaje y resistencia en un circuito.</li>
+ <li>Aplicar de manera adecuada las fórmulas correspondientes a energía y potencia que se emplean en los ejercicios presentados en el desarrollo del informe.</li>
+ <li>Conocer lo que es una fuente de potencia y su funcionamiento.</li>
 </ul>
 <b>MARCO TEÓRICO <p>
  <dl>
