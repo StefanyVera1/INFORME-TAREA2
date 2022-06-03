@@ -91,13 +91,6 @@ Resistencia mínima = 3135 Ω
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig36.jpg"></dd>
  </dl>
  
-<b><i>Localización y análisis de fallas con Multisim</i></b>
-<dl>
-<dd>38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apropiadamente.</dd>
-<dd>40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.</dd>
-<dd>42. Abra el archivo P03-42 y encuentre el problema con el circuito.</dd>
- </dl> 
- 
 <p><b>SECCIÓN 4
 
 <i>SECCIÓN 4–1 Energía y potencia</i>
@@ -149,14 +142,6 @@ Resistencia mínima = 3135 Ω
  <dd>34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?</dd>    
 <dd>36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?</dd>
  <dd><div align="center"><img src=""></dd></dl>
- 
-<b><i>Localización de fallas y análisis con archivos Multisim</i></b>
-<dl>
-<dd>38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.</dd>
-<dd><div align="center"><img src="" width="600" height="400"></dd>
- <dd>40. Abra el archivo P04-40. Mida la corriente en la lámpara, y determine si el valor concuerda con el que encontró mediante su clasificación de potencia y voltaje.</dd>
- <dd><div align="center"><img src=""></dd>
-</dl>
 
 <b>VIDEO
 <dl>
