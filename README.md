@@ -22,7 +22,7 @@ Objetivos Específicos:
 </dl>
   <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-<b>SECCIÓN 3
+<b>SECCIÓN 3 - LEY DE OHM
 
 <i>SECCIÓN 3–1 La relación de corriente, voltaje y resistencia</i>
 
@@ -91,7 +91,7 @@ Resistencia mínima = 3135 Ω
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig36.jpg"></dd>
  </dl>
  
-<p><b>SECCIÓN 4
+<p><b>SECCIÓN 4 - ENERGÍA Y POTENCIA
 
 <i>SECCIÓN 4–1 Energía y potencia</i>
 <dl>
