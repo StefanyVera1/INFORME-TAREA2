@@ -152,7 +152,7 @@ Resistencia mínima = 3135 Ω
 
 <b>VIDEO
 <dl>
- <dd></dd>
+ <dd>https://youtu.be/T7cqEdWxtik</dd>
  </dl>
 <b>CONCLUSIONES
  <dl>
