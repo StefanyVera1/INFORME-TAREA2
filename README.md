@@ -110,7 +110,7 @@ Resistencia mínima = 3135 Ω
 <dd>*12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?</dd>
 <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec4/ej12.JPG">
 <dd>14. Convierta 5x10^6 watts-minutos en kWh.</dd>
-<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec4/e14.JPG">
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec4/ej14.JPG"></dd>
 <dd>16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?</dd>
 <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec4/ej16.JPG">
  </dl>
