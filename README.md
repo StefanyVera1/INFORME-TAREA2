@@ -81,7 +81,7 @@ Resistencia mínima = 3135 Ω
 <dd>30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?</dd>
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej30.JPG"></dd>
  <dd>32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig32.jpg"></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej32.JPG"></dd>
  <dd>*34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.</dd>
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/fig34.jpg"></dd>
  </dl>
