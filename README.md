@@ -42,9 +42,9 @@ Objetivos Específicos:
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej10.JPG" width="430" height="150"></dd>
  <dd>El que tiene más corriente es el tercer circuito, perteneciente al literal c y el que tiene menos corriente es el primer circuito, perteneciente al literal a</dd>
 <dd>*12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej10.JPG"></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej12.JPG"></dd>
 <dd>14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd>En el grafico se expresa una relación lineal directamente proporcional entre el voltaje y la corriente.</dd>
 </dl>
 
 <i>SECCIÓN 3–2 Cálculo de la corriente</i>
@@ -62,6 +62,7 @@ Resistencia mínima = 3135 Ω
   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA2/blob/main/img/sec3/ej20.JPG"></dd>
 <dd>*22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?</dd>
   <dd><div align="center"><img src=""></dd>
+   <dd>Si R≤8 el elemento calentador se quema</dd>
  </dl> 
  
 <i>SECCIÓN 3–3 Cálculo de voltaje</i>
